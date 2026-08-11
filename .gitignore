@@ -142,6 +142,12 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
 src/**/*.js
 src/**/*.js.map
 src/**/*.d.ts
