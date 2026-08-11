@@ -1,11 +1,15 @@
-# TypeScript Daily Challenges 🚀
+# 🧩 TypeScript Daily Challenges
 
-My personal collection of algorithmic problems and coding challenges solved using TypeScript. 
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-## 🛠 Tech Stack
-- **Language:** TypeScript
-- **Runtime / Execution:** Node.js
+Daily algorithmic challenges and coding exercises solved in **TypeScript** to sharpen problem-solving skills and master core language features.
 
-## 📂 Structure
-Each day has its own dedicated folder containing the solution and a detailed explanation:
-- `src/d1_Even_or_Odd/` — Even or Odd number checker (Codewars 8kyu)
+---
+
+## 🎯 Goals
+
+- Improve algorithmic thinking and code cleanliness.
+- Practice advanced TypeScript types and strict configurations.
+- Maintain a consistent daily coding habit.
